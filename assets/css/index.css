@@ -106,6 +106,41 @@ to{
   position: absolute;
 }
 
+.intro {
+  height: 600px;
+  width: 100%;
+  background-color: rgba(241, 109, 107, 0.452);
+}
+
+#intro-text {
+    font-size: 130%;
+    font-family: ;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: right;
+    width: 50%;
+}
+
+#circle-container {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 3px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 30px;
+}
+
+#circle-cover-bg {
+    background: url("") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
 /* Form */
 
 .form-section {
