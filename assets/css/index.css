@@ -160,3 +160,17 @@ to{
   background-color: #fafafa;
   color: #f16c6b;
 }
+
+/* Timetable */
+
+.timetable {
+  margin: 0 auto;
+  table-layout: fixed;
+  background-color: transparent;
+  border: 1px solid black; 
+}
+
+.timetable TD {
+  border: 1px solid black;
+  text-align: center;
+}
