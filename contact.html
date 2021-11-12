@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Power Studio</title>
+    <meta name="description" content="fitness studio in Cork, Ireland">
+    <meta name="keywords" content="fitness, fitness studio, pole dance, yoga, fitness classes ireland, cork">
+    <link href="assets/css/index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+      <header>
+        <a href="index.html">
+            <h1 id="logo">Power Studio</h1>
+        </a>
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="contact.html">Contact Us</a>
+                </li>
+                <li>
+                    <a href="testimonials.html">Testimonials</a>
+                </li>
+                <li>
+                    <a href="memberships.html">Memberships</a>
+                </li>
+                <li>
+                    <a href="timetable.html">Timetable</a>
+                </li>
+                <li>
+                    <a href="about-us.html">About Us</a>
+                </li>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+        <section class="form-section">
+    <form class="contact-form" method="POST" action="#" class="signup-form">
+        <h2>Need More Info?</h2>
+        <label for="fname">First Name:</label>
+        <input id="fname" name="first_name"
+        type="text" class="text-input" placeholder="First Name" required>
+
+        <label for="lname">Last Name:</label>
+        <input id="lname" name="last_name"
+        type="text" class="text-input" placeholder="Last Name" required>
+
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email_address" class="text-input" placeholder="Email Address" required>
+
+        <label for="mobile-field">Contact Number:</label>
+        <input id="mobile-field" type="text" name="mobile-no" class="text-input" placeholder="Enter Number" required>
+
+        <label for="reason-field">What Can We Help You With?</label>
+        <select id="reason-field" class="text-input" name="reason" required>
+            <option value="">Please Select</option>
+            <option value="classes">Classes</option>
+            <option value="membership">Membership</option>
+            <option value="other">Other</option>
+        </select>
+        <label for="subject">Subject</label>
+        <textarea class="text-input" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+        <input class="submit-button" type="submit" value="Submit!">
+    </form>
+  </section>
+</body>
+</html>
