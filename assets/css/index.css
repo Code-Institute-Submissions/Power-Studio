@@ -24,6 +24,17 @@ h1 {
     font-size: 200%;
   }
 
+h3 {
+  text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #11151C;
+    background-color: transparent;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 200%;
+}
+
   #logo {
     float: left;
     font-size: 280%;
@@ -106,6 +117,8 @@ to{
   position: absolute;
 }
 
+/* intro */
+
 .intro {
   height: 600px;
   width: 100%;
@@ -115,6 +128,7 @@ to{
 #intro-text {
     font-size: 130%;
     font-family: ;
+    color: #11151C;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: right;
