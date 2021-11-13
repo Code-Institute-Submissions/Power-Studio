@@ -234,13 +234,16 @@ to{
 }
 
 #our-studio {
-font-size: 120%;
-font-family: 'DM Serif Display', serif;
-color: #11151C;
-text-transform: uppercase;
-letter-spacing: 4px;
-text-align: center;
-width: 50%;
+  font-size: 130%;
+  font-family: 'DM Serif Display', serif;
+  color: #11151C;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 50%;
+  display: table-cell;
 }
 
 #circle-container-about {
