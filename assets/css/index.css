@@ -226,8 +226,9 @@ to{
 
 .timetable {
   margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
   table-layout: fixed;
-  background-color: transparent;
+  background-color: #efaac4;
   border: 1px solid black; 
 }
 
@@ -237,7 +238,31 @@ to{
 }
 
 /* Memberships */
+.top-membership {
+max-width: 100%;
+ height: 300px;
+ display: table-cell;
+ background-color: #11151C;
+ padding: 20px;
+}
 
+.center-membership {
+  max-width: 100%;
+  height: 300px;
+  display: table-cell;
+  background-color: #11151C;
+  padding: 20px;
+ 
+}
+
+.bottom-membership {
+  max-width: 100%;
+  height: 300px;
+  display:table-cell;
+  background-color: #11151C;
+  padding: 20px;
+  
+}
 
 
 /* Testimonials */
