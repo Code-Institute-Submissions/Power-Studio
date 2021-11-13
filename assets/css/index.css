@@ -201,14 +201,14 @@ to{
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #f16c6b;
+  background-color: #efaac4;
   color: #fafafa;
   display: block;
 }
 
 .submit-button:hover {
-  background-color: #fafafa;
-  color: #f16c6b;
+  background-color: #a80076;
+  color: #11151C;
 }
 
 /* Timetable */
