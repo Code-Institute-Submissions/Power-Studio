@@ -227,67 +227,6 @@ to{
 
 /* Memberships */
 
-#top-membership {
 
-}
-
-#center-membership {
-  
-}
-
-#bottom-membership {
-
-}
 
 /* Testimonials */
-hr {
-  border-top: 1px solid #3a3a3a;
-  width: 100%;
-  margin: 5px 0;
-}
-
-.left-testimonial-heading {
-  width: 60%;
-  float: left;
-  line-height: 20px;
-  clear: both;
-  margin-bottom: 50px;
-}
-
-.center-testimonial-heading {
-  width: 60%;
-  line-height: 20px;
-  clear: both;
-  margin-bottom: 50px;
-}
-
-.right-testimonial-heading {
-  width: 60%;
-  float: left;
-  line-height: 20px;
-  clear: both;
-  margin-bottom: 50px;
-}
-
-.left-testimonial-heading p {
-  text-align: left;
-}
-
-.left-testimonial-heading h2 {
-  text-align: left;
-}
-.center-testimonial-heading p {
-  margin: 0 auto;
-}
-
-.center-testimonial-heading h2 {
-  margin: 0 auto;
-}
-
-.right-testimonial-heading p {
-  text-align: right;
-}
-
-.right-testimonial-heading h2 {
-  text-align: right;
-}
