@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"remoteAuthority": "silver-chicken-n5fvqqdc.ws-eu18.gitpod.io",
+	"settings": {
+		"files.autoSave": "off",
+		"workbench.colorTheme": "Visual Studio Dark",
+		"terminal.integrated.gpuAcceleration": "canvas"
+	}
+}
