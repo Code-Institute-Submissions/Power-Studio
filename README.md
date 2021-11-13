@@ -46,7 +46,17 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 ![Wireframes](assets/wireframes/contactuswire.png)
 </details>
 
+<details>
+<summary>Mobile Wireframes</summary>
+<br>
 
+![Wireframes](assets/wireframes/homewirephone.png)
+![Wireframes](assets/wireframes/aboutuswirephone.png)
+![Wireframes](assets/wireframes/timetablewirephone.png)
+![Wireframes](assets/wireframes/membershipwirephone.png)
+![Wireframes](assets/wireframes/testimonialwirephone.png)
+![Wireframes](assets/wireframes/contactuswirephone.png)
+</details>
 
 
 
