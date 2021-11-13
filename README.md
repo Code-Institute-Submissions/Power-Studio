@@ -1,12 +1,19 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Power Studio
 
-Welcome EmmaNoelles,
+As part of the Diploma in Software Development run by Code Institute that I am completing with UCD Professional Acadamey, I must complete five portfolio projects. This is the first portfolio project and the focus of this project is to show my ability to use HTML and CSS.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
-
-## Gitpod Reminders
+# User Experience (UX)
+User Stories:
+*As a user, I would like to be able to easily navigate through the webpage.
+*As a user, I would like to see motivating imagery to join the studio.
+*As a user, I would like to be able to see what classes are on and when.
+*As a user, I would like to be able to easily contact the owners for more information.
+*As a user, I would like to know where the studio is located.
+*As a user, I would like to know the qualifications of the team that run the studio.
+*As a user, I would like to know other peoples' experience of the studio.
+*As a user, I would like to know what my payment options are.
+*As a user, I would like to easily find the information I am looking for.
+*As a user, I would like to find their social pages.
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
