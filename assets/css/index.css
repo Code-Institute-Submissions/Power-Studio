@@ -254,9 +254,8 @@ to{
   border-color: #cccccc;
   border-width: 3px;
   border-radius: 50%;
-  float: right;
   margin-right: 30px;
-  display: table-cell;
+  position: absolute;
 }
 
 #about-circle-cover-bg {
