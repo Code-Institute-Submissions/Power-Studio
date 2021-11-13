@@ -78,4 +78,14 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 
 * Contact Us Page Features
 
+## Testing
+
+## Deployment
+
+## Credits
+
+## Technologies Used
+
+### Acknowledgements
+
 
