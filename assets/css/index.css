@@ -159,7 +159,7 @@ to{
 
 .form-section {
   clear: left;
-  background: url("../images/contact-image.jpg");
+  background: url("../images/contact-image.jpg") no-repeat center center;
   background-color: #fafafa;
   background-size: cover;
   background-position: center;
