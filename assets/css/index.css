@@ -18,6 +18,7 @@ h1 {
 
   h2 {
     text-transform: uppercase;
+    font-family: 'DM Serif Display', serif;
     letter-spacing: 4px;
     color: #a80076;
     background-color: transparent;
