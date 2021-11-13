@@ -1,9 +1,9 @@
 #  **POWER STUDIO** 
 As part of the Diploma in Software Development run by Code Institute that I am completing with UCD Professional Acadamey, I must complete five portfolio projects. This is the first portfolio project and the focus of this project is to show my ability to use HTML and CSS.
 
-# User Experience (UX)
+## User Experience (UX)
 
-User Stories:
+### User Stories:
 
 * As a user, I would like to be able to easily navigate through the webpage.
 * As a user, I would like to see motivating imagery to join the studio.
@@ -16,9 +16,9 @@ User Stories:
 * As a user, I would like to easily find the information I am looking for.
 * As a user, I would like to find their social pages.
 
-# **Design**
+## Design
 
-**Colours**:
+### Colours:
 
 The three main colours I used are:
 * ![#11151c](https://via.placeholder.com/15/11151c/000000?text=+) `#11151c`
@@ -27,10 +27,10 @@ The three main colours I used are:
 
 I used these colours as they are easy to read together, are feminine for a women's studio and are eye catching.
 
-**Typography**
+### Typography
 
 
-**Structure**
+### Structure
 
 The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, Testimonials and Contact, Us. 
 
@@ -58,5 +58,24 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 ![Wireframes](assets/wireframes/contactuswirephone.png)
 </details>
 
+## Features
+
+* Logo 
+
+* Navigation Menu
+
+* Footer
+
+* Home Page Features
+
+* About Us Page Features
+
+* Timetable Page Features
+
+* Membership Page Features
+
+* Testimonial Page Features
+
+* Contact Us Page Features
 
 
