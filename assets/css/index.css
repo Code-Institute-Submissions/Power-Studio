@@ -240,4 +240,23 @@ to{
 }
 
 /* Testimonials */
+.testimonial-container {
+  height: 600px;
+  width: 300px;
+  
+}
 
+#left-testimonial {
+
+  background-color: #efaac4;
+}
+
+#center-testimonial {
+  background-position: center;
+  background-color: #efaac4;
+}
+
+#right-testimonial {
+
+  background-color: #efaac4;
+}
