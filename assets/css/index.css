@@ -132,7 +132,7 @@ to{
 .intro {
   height: 600px;
   width: 100%;
-  background-color: rgba(241, 109, 107, 0.452);
+  background-color: rgba(196, 174, 173, 0.452);
 }
 
 #intro-text {
@@ -223,7 +223,41 @@ to{
 }
 
 /* About Us Page */
+.studio {
+  height: 600px;
+  width: 100%;
+  background-color: rgba(196, 174, 173, 0.452);
+  padding-top: 20px;
+}
 
+#our-studio {
+font-size: 120%;
+font-family: 'DM Serif Display', serif;
+color: #11151C;
+text-transform: uppercase;
+letter-spacing: 4px;
+text-align: center;
+width: 50%;
+}
+
+#circle-container-about {
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 3px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 30px;
+}
+
+#about-circle-cover-bg {
+  background: url("../images/aboutimage.jpg") no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  border-radius: 50%;
+}
 
 /* Timetable */
 
