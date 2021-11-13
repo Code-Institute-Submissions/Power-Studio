@@ -241,3 +241,32 @@ to{
 
 
 /* Testimonials */
+.left-testimonials-container {
+  width: 60%;
+  background-image: url("../images/testimonial1.jpg");
+  display: table-cell;
+  float: right;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
+}
+
+.center-testimonials-container {
+  width: 60%;
+  background-image: url("../images/testimonial2.jpg");
+  display: table-cell;
+  float: right;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
+}
+
+.right-testimonials-container {
+  width: 60%;
+  background-image: url("../images/testimonial3.jpg");
+  display: table-cell;
+  float: right;
+  line-height: 20px;
+  clear: both;
+  margin-bottom: 50px;
+}
