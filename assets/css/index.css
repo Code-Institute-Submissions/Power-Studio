@@ -148,7 +148,7 @@ to{
 }
 
 #circle-cover-bg {
-    background: url("") no-repeat center center;
+    background: url("../images/intro-image.jpg") no-repeat center center;
     background-size: cover;
     height: 100%;
     border-radius: 50%;
@@ -159,7 +159,7 @@ to{
 
 .form-section {
   clear: left;
-  background: url("");
+  background: url("../images/contact-image.jpg");
   background-color: #fafafa;
   background-size: cover;
   background-position: center;
@@ -230,15 +230,3 @@ to{
 
 
 /* Testimonials */
-#testimonials-container {
-  width: 100px;
-	margin: auto;
-	margin-top: 10px;
-	margin-bottom: 30px;
-	display: flex;
-	height: 2600px;
-	border: 2px #404028 solid;
-	box-shadow: 20px 20px 50px;
-	border-radius: 20px;
-	max-width: 1729px;
-}
