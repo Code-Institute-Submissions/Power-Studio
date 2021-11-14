@@ -80,8 +80,19 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 
 While making this project I ended up disliking my original idea, so that is why my project now looks different to the wireframes that were made. I found the original idea how too much free white space so ended up changing the project.
 
+I tested the websites on the W3C checker and changed anything that needed changing.
+
+
 
 ## Deployment
+
+The project was deployed to GitHub Pages using the following steps:
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository, locate the "Settings" Button on the menu.
+3. Scroll down the Settings page and locate "GitHub Pages".
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. Scroll back down to locate the now published site link in the "GitHub Pages" section.
 
 ## Credits
 
