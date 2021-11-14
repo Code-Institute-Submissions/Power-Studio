@@ -323,7 +323,7 @@ overflow: hidden;
 .left-testimonials-container {
  max-width: 300px;
  height: 600px;
-  background-color: rgba(196, 174, 173, 0.452);
+  background: url("../images/testimonial1.jpg");
   background-size: cover;
   float: left;
   line-height: 20px;
@@ -332,7 +332,7 @@ overflow: hidden;
 .center-testimonials-container {
   max-width: 300px;
   height: 600px;
-  background-color: rgba(196, 174, 173, 0.452);
+  background: url("../images/testimonial2.jpg");
   background-size: cover;
   line-height: 20px;
 }
@@ -340,12 +340,39 @@ overflow: hidden;
 .right-testimonials-container {
   max-width: 300px;
   height: 600px;
-  background-color: rgba(196, 174, 173, 0.452);
+  background: url("../images/testimonial3.jpg");
   background-size: cover;
-  
 }
 
-.testimonials-description {
+.left-testimonials-description {
   color:#11151C;
   visibility: hidden;
+  opacity: 0
+}
+
+.center-testimonials-description {
+  color:#11151C;
+  visibility: hidden;
+  opacity: 0
+}
+
+.right-testimonials-description {
+  color:#11151C;
+  visibility: hidden;
+  opacity: 0
+
+  }
+.left-testimonials-description:hover {
+  visibility: visible;
+  opacity: 1;
+}
+
+.center-testimonials-description:hover {
+  visibility: visible;
+  opacity: 1;
+}
+
+.right-testimonials-description:hover {
+  visibility: visible;
+  opacity: 1;
 }
