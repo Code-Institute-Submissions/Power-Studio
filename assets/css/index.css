@@ -369,6 +369,7 @@ footer {
 /* Footer */
 .social-networks {
   text-align: center;
+  background-color: #11151C;
 }
 
 .social-networks li {
@@ -380,7 +381,7 @@ footer {
   font-size: 160%;
   margin: 1%;
   padding-top: 30px;
-  color: #4E4351;
+  color: rgba(196, 174, 173, 0.452);
 }
 
 /*Media Queries */
