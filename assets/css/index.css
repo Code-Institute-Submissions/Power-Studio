@@ -241,6 +241,11 @@ to{
 }
 
 /* Memberships */
+span {
+  float: left;
+  padding-left: 30%;
+}
+
 .top-membership {
   width: 100%;
   line-height: 50px;
@@ -277,7 +282,7 @@ overflow: hidden;
 
 .left-testimonials-container {
  max-width: 300px;
- height: 600px;
+ height: 500px;
   background-color: rgba(196, 174, 173, 0.452);
   background-size: cover;
   float: left;
@@ -286,7 +291,7 @@ padding: 20px;
 
 .center-testimonials-container {
   max-width: 300px;
-  height: 600px;
+  height: 500px;
   background-color: rgba(196, 174, 173, 0.452);
   background-size: cover;
   padding: 20px;
@@ -294,7 +299,7 @@ padding: 20px;
 
 .right-testimonials-container {
   max-width: 300px;
-  height: 600px;
+  height: 500px;
   background-color: rgba(196, 174, 173, 0.452);
   background-size: cover;
   padding: 20px;
@@ -355,4 +360,30 @@ padding: 20px;
 .submit-button:hover {
   background-color: #a80076;
   color: #11151C;
+}
+footer {
+  height: 100px;
+  background: rgb(254,254,223);
+  
+}
+/* Footer */
+.social-networks {
+  text-align: center;
+}
+
+.social-networks li {
+  display: inline;
+ justify-content: space-between;
+}
+
+.social-networks i {
+  font-size: 160%;
+  margin: 1%;
+  padding-top: 30px;
+  color: #4E4351;
+}
+
+/*Media Queries */
+@media only screen and (min-width: 768px) {
+  width: 100%; 
 }
