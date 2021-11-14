@@ -266,15 +266,19 @@ to{
 
 #studio-hours-location {
   display: flex;
+  justify-content: space-evenly;
 }
 
 .opening-hours {
   padding: 80px;
+  text-align: center;
+  font-size: 120%;
 }
 
 .location {
   padding: 60px;
   float: right;
+  font-size: 120%;
 }
 
 /* Timetable */
