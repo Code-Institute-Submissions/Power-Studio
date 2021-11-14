@@ -309,11 +309,16 @@ to{
 
 
 /* Testimonials */
-.testimonials-container {
-display: table;
+#testimonials-container {
+display: flex;
+justify-content: space-evenly;
+flex: none;
+flex-flow: row wrap;
+flex-flow: row;
 margin: 0 auto;
 overflow: hidden;
 }
+
 
 .left-testimonials-container {
  max-width: 300px;
@@ -322,7 +327,6 @@ overflow: hidden;
   background-size: cover;
   color: #11151C;
   float: left;
-  display: table-cell;
   line-height: 20px;
 }
 
@@ -332,8 +336,6 @@ overflow: hidden;
   background-color: rgba(196, 174, 173, 0.452);
   color:#11151C;
   background-size: cover;
-  display: table-cell;
-  margin: 0 auto;
   line-height: 20px;
 }
 
@@ -343,7 +345,5 @@ overflow: hidden;
   background-color: rgba(196, 174, 173, 0.452);
   background-size: cover;
   color:#11151C;
-  display: table-cell;
-  line-height: 20px;
-  flex-wrap: wrap;
 }
+
