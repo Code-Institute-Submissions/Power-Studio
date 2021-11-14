@@ -61,31 +61,42 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 ## Features
 
 * Logo 
-![Logo](/workspace/Power-Studio/assets/images/logo.PNG)
+
+    The Logo is a bright color to attract the eye easily and is clickable to bring you back to the index.html page.
+
 * Navigation Menu
 
-* Footer
+    All links bring you to a seperate section on the page besides the contact button which will redirect you to the contact.html page
+
+* Footer 
+
+    Includes a contact form and social media links
 
 * Home Page Features
-
-* About Us Page Features
-
-* Timetable Page Features
-
-* Membership Page Features
-
-* Testimonial Page Features
-
-* Contact Us Page Features
+    
+    The homepage has a short piece of information of the studio, a timetable, shows the different membership options, testimonials from three girls, opening hours, and a map of where the studio is.
 
 ## Testing
+
+While making this project I ended up disliking my original idea, so that is why my project now looks different to the wireframes that were made. I found the original idea how too much free white space so ended up changing the project.
+
 
 ## Deployment
 
 ## Credits
 
+* A lot of the code is based of the Code Institute Love running project.
+* All images were downloaded from Unsplash.
+* Color scheme was decided on using Coolors.
+* Placeholder was used to add colors to this file.
+
 ## Technologies Used
 
+* HTML
+* CSS
+
 ### Acknowledgements
+
+* I got most of my help from W3schools and Stack Overflow.
 
 
