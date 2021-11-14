@@ -61,7 +61,7 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 ## Features
 
 * Logo 
-
+![Logo](/workspace/Power-Studio/assets/images/logo.PNG)
 * Navigation Menu
 
 * Footer
