@@ -325,7 +325,6 @@ overflow: hidden;
  height: 600px;
   background-color: rgba(196, 174, 173, 0.452);
   background-size: cover;
-  color: #11151C;
   float: left;
   line-height: 20px;
 }
@@ -334,7 +333,6 @@ overflow: hidden;
   max-width: 300px;
   height: 600px;
   background-color: rgba(196, 174, 173, 0.452);
-  color:#11151C;
   background-size: cover;
   line-height: 20px;
 }
@@ -344,6 +342,10 @@ overflow: hidden;
   height: 600px;
   background-color: rgba(196, 174, 173, 0.452);
   background-size: cover;
-  color:#11151C;
+  
 }
 
+.testimonials-description {
+  color:#11151C;
+  visibility: hidden;
+}
