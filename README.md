@@ -1,6 +1,7 @@
 #  **POWER STUDIO** 
 As part of the Diploma in Software Development run by Code Institute that I am completing with UCD Professional Acadamey, I must complete five portfolio projects. This is the first portfolio project and the focus of this project is to show my ability to use HTML and CSS.
 
+![Responsive Image](assets/images/README/Responsive.PNG)
 ## User Experience (UX)
 
 ### User Stories:
@@ -29,6 +30,7 @@ I used these colours as they are easy to read together, are feminine for a women
 
 ### Typography
 
+I used the fonts Dm Serif Display and Poppins.
 
 ### Structure
 
@@ -64,17 +66,29 @@ The site will consist of 6 main pages; Home, About Us, Timetable, Memberships, T
 
     The Logo is a bright color to attract the eye easily and is clickable to bring you back to the index.html page.
 
+    ![Logo](assets/images/README/logo.PNG)
+
 * Navigation Menu
 
-    All links bring you to a seperate section on the page besides the contact button which will redirect you to the contact.html page
+    All links bring you to a seperate section on the page besides the contact button which will redirect you to the contact.html page.
+
+    ![NavBar](assets/images/README/NavbAR.PNG)
 
 * Footer 
 
-    Includes a contact form and social media links
+    Includes a contact form and social media links.
+
+    ![Footer](assets/images/README/contactusread.PNG)
 
 * Home Page Features
     
     The homepage has a short piece of information of the studio, a timetable, shows the different membership options, testimonials from three girls, opening hours, and a map of where the studio is.
+
+    ![aboutus](assets/images/README/ABOUTUS1.PNG)
+
+    ![location](assets/images/README/ABOUTUS2.PNG)
+
+    ![timetable](assets/images/README/TIMETABLEREAD.PNG)
 
 ## Testing
 
