@@ -22,8 +22,7 @@ h1 {
     letter-spacing: 4px;
     color: #a80076;
     background-color: transparent;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 60px;
     text-align: center;
     font-size: 200%;
   }
@@ -229,6 +228,7 @@ to{
 .studio {
   height: 600px;
   width: 100%;
+  background-color: rgba(196, 174, 173, 0.452);
 }
 
 #our-studio {
@@ -297,7 +297,6 @@ to{
   clear: both;
   margin-bottom: 50px;
   background-color: rgba(196, 174, 173, 0.452);
- 
 }
 
 .bottom-membership {
@@ -307,8 +306,6 @@ to{
   margin-bottom: 50px;
   background-color: rgba(196, 174, 173, 0.452);
 }
-
-
 
 /* Testimonials */
 #testimonials-container {
